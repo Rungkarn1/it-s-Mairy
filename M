@@ -2,29 +2,69 @@
 <html>
 <head>
     <title>My CV</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #fce4ec;
+            text-align: center;
+        }
+
+        .card {
+            background-color: white;
+            width: 60%;
+            margin: 50px auto;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            color: #e91e63;
+        }
+
+        h2 {
+            color: #ad1457;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background: #f8bbd0;
+            margin: 5px;
+            padding: 8px;
+            border-radius: 10px;
+        }
+    </style>
 </head>
+
 <body>
 
-<h1>My CV</h1>
+<div class="card">
+    <h1>🌷 My CV 🌷</h1>
 
-<h2>Name</h2>
-<p>Rainy</p>
+    <h2>Name</h2>
+    <p>Rainy</p>
 
-<h2>Education</h2>
-<p>Student at (ชื่อมหาลัย)</p>
+    <h2>Education</h2>
+    <p>Student at (ชื่อมหาลัย)</p>
 
-<h2>Skills</h2>
-<ul>
-    <li>Communication</li>
-    <li>Basic IT</li>
-    <li>English</li>
-</ul>
+    <h2>Skills</h2>
+    <ul>
+        <li>Communication</li>
+        <li>English</li>
+        <li>Basic IT</li>
+    </ul>
 
-<h2>Hobbies</h2>
-<ul>
-    <li>Listening to music</li>
-    <li>Watching movies</li>
-</ul>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>🎧 Listening to music</li>
+        <li>🎬 Watching movies</li>
+    </ul>
+</div>
 
 </body>
 </html>
