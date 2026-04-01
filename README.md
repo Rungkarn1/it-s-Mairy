@@ -26,4 +26,4 @@
 ---
 
 ## ✨ About Me
-> Just trying to be a better version of myself 💖
+> I'm Just a girl who believe in Jesus Christ💖
