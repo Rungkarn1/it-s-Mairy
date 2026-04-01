@@ -15,7 +15,7 @@
 ## 💡 Skills
 - 🌍 Languages  
 - 😴 Sleep  
-- 🇬🇧 English  
+- 📚 English  
 
 ---
 
