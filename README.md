@@ -1,14 +1,14 @@
 # My CV
 
 ## Name
-Rainy
+Rungkarn Phromphet
 
 ## Education
-- Student at (ชื่อมหาลัย)
+- Payap University
 
 ## Skills
-- Communication
-- Basic IT
+- Languages
+- Sleep
 - English
 
 ## Hobbies
