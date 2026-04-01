@@ -1,16 +1,29 @@
-# My CV
+# 🌷 My CV 🌷
 
-## Name
-Rungkarn Phromphet
+---
 
-## Education
+## 👩‍💼 Name
+**Rungkarn Phromphet**
+
+---
+
+## 🎓 Education
 - Payap University
 
-## Skills
-- Languages
-- Sleep
-- English
+---
 
-## Hobbies
-- Listening to music
-- Watching movies
+## 💡 Skills
+- 🌍 Languages  
+- 😴 Sleep  
+- 🇬🇧 English  
+
+---
+
+## 🎶 Hobbies
+- 🎧 Listening to music  
+- 🎬 Watching movies  
+
+---
+
+## ✨ About Me
+> Just trying to be a better version of myself 💖
